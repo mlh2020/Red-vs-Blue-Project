@@ -6,58 +6,58 @@ Playing the role of both penetration tester and SOC analyst, I set up and attack
 
 # Table of Contents
 
-(images/2.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/2.png)
 
-(images/3.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/3.png)
 
 # Network Topology
 
-(images/4.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/4.png)
 
-(images/5.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/5.png)
 
 # Recon: Describing the Target
 
-(images/6.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/6.png)
 
 # Vulnerability Assessment
 
-(images/7.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/7.png)
 
 # Exploitation: Sensitive Data Exposure
 
-(images/8.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/8.png)
 
 # Exploitation: Unauthorized File Upload
 
-(images/9.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/9.png)
 
 # Exploitation: Remote Code Execution
 
-(images/10.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/10.png)
 
-(images/11.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/11.png)
 
 # Analysis: Identifying the Port Scan
 
-(images/12.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/12.png)
 
 # Analysis: Finding the Request for the Hidden Directory
 
-(images/13.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/13.png)
 
 # Analysis: Uncovering the Brute Force Attack
 
-(images/14.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/14.png)
 
 # Analysis: Finding the WebDAV Connection
 
-(images/17.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/17.png)
 
 # Mitigation: Blocking the Port Scan
 
-(images/15.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/15.png)
 
 # Mitigation: Finding the Request for the Hidden Directory
 
-(images/16.png)
+![alt text](https://github.com/mlh2020/Red-vs-Blue-Project/blob/main/images/16.png)
